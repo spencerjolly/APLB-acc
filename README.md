@@ -1,5 +1,5 @@
 # APLB-acc
-Scripts and functions for accelerating single electrons with ultrafast azimuthally-polarized laser beams including with spatial-temporal couplings (STCs) 
+Scripts and functions for accelerating single electrons with ultrafast azimuthally-polarized laser beams including with spatial-temporal couplings. 
 
 Acceleration with radially-polarized laser pulses (RPLBs, also called TM pulses) has been studied in-depth in simulations and experiments due to the strong longitudinal field. Azimuthally-polarized laser pulses (APLBs, also called TE pulses) have similar equations for the electric and magnetic fields, but have been studied much less. There are a few recent works [1,2]. We aim to study the electron acceleration dynamics when spatio-temporal couplings (STCs) are added to such pulses.
 
